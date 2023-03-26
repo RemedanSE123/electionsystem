@@ -1,0 +1,9 @@
+Pepse~20
+CocaCola~20
+Dew~35
+Juice~35
+Tea~10
+Coffee~15
+Milk~20
+Makiato~30
+Pepsi~13

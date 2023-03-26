@@ -1,0 +1,14 @@
+Rice~25
+Bangus~85
+Tangege~120
+Pasta~100
+Tilapia~100
+Lazania~130
+Burger~30
+Pizza~30
+Burger~20
+Pizza~45
+Hungary~30
+Fries~10
+Noodles~25
+Burger~10

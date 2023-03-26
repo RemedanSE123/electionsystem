@@ -1,0 +1,5 @@
+Bangus~85~1--Tilapia~100~1--Dew~35~1--
+Fried-Rice~25~1--Juice~35~1--
+Noodles~25~1--
+Pepsi~13~1--
+Fries~10~3--
